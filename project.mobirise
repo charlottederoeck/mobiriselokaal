@@ -28,7 +28,7 @@
     "favicon": "",
     "noImageResize": "true",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-97826799-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
-    "cookiesAlert": "Wij gebruikencookies. Meer info op: <a href='page5.html'>cookie policy</a>."
+    "cookiesAlert": "Wij gebruikencookies. Meer info op: <a href='page5.html'Tracking cookies</a>."
   },
   "pages": {
     "index.html": {
@@ -142,7 +142,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -195,16 +195,16 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "images": [
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/17349922-1304064006329277-2933697512921786521-o-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/17349922-1304064006329277-2933697512921786521-o.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wegwerp4-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wegwerp4.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -213,8 +213,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/17359083-1304064069662604-1394302621727147486-o-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/17359083-1304064069662604-1394302621727147486-o.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wegwerp2-800x1199.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wegwerp2.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -223,8 +223,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/17358636-1304063999662611-4858347922896271444-o-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/17358636-1304063999662611-4858347922896271444-o.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wegwerp5-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wegwerp5.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -233,8 +233,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/17358831-1304064059662605-5507936681400578996-o-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/17358831-1304064059662605-5507936681400578996-o.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wegwerp3-800x1199.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wegwerp3.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -243,8 +243,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/17359474-1304063846329293-4209013564005316702-o-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/17359474-1304063846329293-4209013564005316702-o.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wegwerp12-800x1199.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wegwerp12.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -253,8 +253,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/17359131-1304063952995949-7184410730053878522-o-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/17359131-1304063952995949-7184410730053878522-o.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wegwerp7-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wegwerp7.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -263,8 +263,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/17358719-1304063949662616-4496941984483370604-o-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/17358719-1304063949662616-4496941984483370604-o.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wegwerp8-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wegwerp8.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -273,8 +273,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/17240643-1304063929662618-4682471981790547554-o-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/17240643-1304063929662618-4682471981790547554-o.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wegwerp9-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wegwerp9.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -283,8 +283,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/17358703-1304063876329290-5157256775064308619-o-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/17358703-1304063876329290-5157256775064308619-o.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wegwerp10-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wegwerp10.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -293,8 +293,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/17359074-1304063862995958-6963065091057185126-o-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/17359074-1304063862995958-6963065091057185126-o.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wegwerp11-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wegwerp11.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -303,8 +303,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/17309906-1304063776329300-6454020867416017456-o-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/17309906-1304063776329300-6454020867416017456-o.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wegwerp13-800x1199.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wegwerp13.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -313,8 +313,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/17349943-1304063759662635-7135888411554973061-o-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/17349943-1304063759662635-7135888411554973061-o.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wegwerp15-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wegwerp15.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -323,8 +323,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/17359024-1304063706329307-5792874828025476254-o-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/17359024-1304063706329307-5792874828025476254-o.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wegwerp16-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wegwerp16.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -333,16 +333,356 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/17309906-1304063776329300-6454020867416017456-o-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/17309906-1304063776329300-6454020867416017456-o.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wegwerp14-800x1199.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wegwerp14.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wegwerp1-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wegwerp1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wegwerp18-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wegwerp18.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wegwerp19-800x1199.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wegwerp19.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wegwerp20-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wegwerp20.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wegwerp21-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wegwerp21.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wegwerp22-800x1199.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wegwerp22.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wegwerp23-800x1199.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wegwerp23.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wegwerp24-800x1199.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wegwerp24.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wegwerp25-800x1199.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wegwerp25.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/istanbulekspres3-800x1161.jpg",
+                "image": "@PROJECT_PATH@/assets/images/istanbulekspres3.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wegwerp26-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wegwerp26.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wegwerp27-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wegwerp27.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wegwerp28-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wegwerp28.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wegwerp29-800x1199.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wegwerp29.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wegwerp30-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wegwerp30.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wegwerp17-800x1199.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wegwerp17.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/istanbulekspres1-800x1161.jpg",
+                "image": "@PROJECT_PATH@/assets/images/istanbulekspres1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/istanbulekspres2-800x1161.jpg",
+                "image": "@PROJECT_PATH@/assets/images/istanbulekspres2.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/grapvanformaat-800x1161.jpg",
+                "image": "@PROJECT_PATH@/assets/images/grapvanformaat.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/nweg-800x1116.jpg",
+                "image": "@PROJECT_PATH@/assets/images/nweg.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/info-1-800x1116.jpg",
+                "image": "@PROJECT_PATH@/assets/images/info-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/honderdentwaalf-1-800x1116.jpg",
+                "image": "@PROJECT_PATH@/assets/images/honderdentwaalf-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/e-weg-1-800x1107.jpg",
+                "image": "@PROJECT_PATH@/assets/images/e-weg-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/file-1-800x1116.jpg",
+                "image": "@PROJECT_PATH@/assets/images/file-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/auto-1-800x1116.jpg",
+                "image": "@PROJECT_PATH@/assets/images/auto-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-118b-1-800x1130.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scan-118b-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-125b-1-800x1130.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scan-125b-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-140b-1-800x1130.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scan-140b-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-136b-1-800x1130.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scan-136b-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-4b-z-w-1-800x1130.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scan-4b-z-w-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-3-800x1130.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scan-3.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-4-800x1130.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scan-4.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-5-800x1130.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scan-5.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-6-800x1130.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scan-6.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
             ],
-            "spacing": 0,
+            "spacing": "1",
             "showText": false,
             "filter": false,
-            "bgColor": "#FFFFFF",
+            "bgColor": "#000000",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
