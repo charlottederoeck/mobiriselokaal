@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page11.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -524,7 +524,7 @@
             }
           },
           "title": "ABCdarium",
-          "text": "Een ABCdarium is een boekje dat het volledige alfabet overloopt. Meestal worden deze boekjes gebruikt om kindjes de volgorde van de letters aan te leren met eenvoudige woorden.<br>Onze opdracht bestond er in weg te gaan van het kinderlijke.<br>Ik &nbsp;gebruikte het verkeer en de verkeersborden om mijn boekje te vormen. Een soort oorzak en gevolg leidt je doorheen het hele alfabet.<br>Onze verkeersborden werden op een zeer goede manier grafisch vormgegeven. Het zijn vooral pictogrammen waardoor ze voor iedereen duidelijk zijn, ookal spreek je een andere taal.",
+          "text": "Een ABCdarium is een boekje dat het volledige alfabet overloopt. Meestal worden deze boekjes gebruikt om kindjes de volgorde van de letters aan te leren met eenvoudige woorden.<br>Onze opdracht bestond er in weg te gaan van het kinderlijke.<br>Ik &nbsp;gebruikte het verkeer en de verkeersborden om mijn boekje te vormen. Een soort oorzaak en gevolg leidt je doorheen het hele alfabet.<br>Onze verkeersborden werden op een zeer goede manier grafisch vormgegeven. Het zijn vooral pictogrammen waardoor ze voor iedereen duidelijk zijn, ook al spreek je een andere taal.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -745,7 +745,7 @@
             }
           },
           "title": "Grap van formaat",
-          "text": "Hoe kan je een mop op een typograafische manier weergeven?<br>Het lijkt een eenvoudige vraag maar dat is het helemaal niet want je mag geen afbeeldingen gebruiken, niet elke lettertype is geschikt voor elke mop ( een Chinees babbelt niet het zelfde als een Amerikaan) en hoe vul je je blad op zonder je lettertype extreem groot te gaan zetten?<br>Het is een zoektocht naar balans. Een balans die heel moeilijk te vinden is. Typografie is dan ook een groot struikelblok voor menig grafisch ontwerper. Maar oefening baart kunst!",
+          "text": "Hoe kan je een mop op een typografische manier weergeven?<br>Het lijkt een eenvoudige vraag maar dat is het helemaal niet want je mag geen afbeeldingen gebruiken, niet elk lettertype is geschikt voor elke mop ( een Chinees babbelt niet het zelfde als een Amerikaan) en hoe vul je je blad op zonder je lettertype extreem groot te gaan zetten?<br>Het is een zoektocht naar balans. Een balans die heel moeilijk te vinden is. Typografie is dan ook een groot struikelblok voor menig grafisch ontwerper. Maar oefening baart kunst!",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
@@ -1323,7 +1323,7 @@
             "showButtons": false
           },
           "title": "Tracking cookies",
-          "text": "Met uw toestemming plaatsen wij “tracking cookies” op uw computer. Deze cookies gebruiken wij om bij te houden welke pagina’s u bezoekt, om zo een profiel op te bouwen van uw online gedrag. Dit profiel is niet gekoppeld aan uw naam, adres, e-mailadres en dergelijke, maar alleen om advertenties af te stemmen op uw profiel zodat deze zo veel mogelijk relevant voor u zijn.<br>",
+          "text": "Met uw toestemming plaatsen wij “tracking cookies” op uw computer. Deze cookies gebruiken wij om bij te houden welke pagina’s u bezoekt, om zo een profiel op te bouwen van uw online gedrag. Dit profiel is niet gekoppeld aan uw naam, adres,<br> e-mailadres en dergelijke, maar alleen om advertenties af te stemmen op uw profiel zodat deze zo veel mogelijk relevant voor u zijn.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         }
       ]
@@ -1502,7 +1502,7 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: Raleway, sans-serif; line-height: 26px; font-size: 1.07rem;\">Waarnemingstekenen is een van de grotere onderdelen van de bachelor Beeldende Kunsten. Voor mij was het in het eerste jaar totaal. Bijgevolg waren mijn eerste tekeningen niet altijd gelijkend met het model of de ruimte. Tekenen heeft tijd nodig. En naargelang de vordering merkte ik dat ik ook op een andere manier begon te kijken naar dingen. Ik zal nooit een grote tekenaar worden, dat vind ik toch van mezelf, maar toch vind ik dat het loont om daar week na week opnieuw mee bezig te zijn.</span><br></p>"
+          "text": "<p><span style=\"color: rgb(255, 255, 255); font-family: Raleway, sans-serif; line-height: 26px; font-size: 1.07rem;\">Waarnemingstekenen is een van de grotere onderdelen van de bachelor Beeldende Kunsten. Voor mij was het in het eerste jaar totaal nieuw. Bijgevolg waren mijn eerste tekeningen niet altijd gelijkend met het model of de ruimte. Tekenen heeft tijd nodig. En naargelang de vordering merkte ik dat ik ook op een andere manier begon te kijken naar dingen. Ik zal nooit een grote tekenaar worden, dat vind ik toch van mezelf, maar toch vind ik dat het loont om daar week na week opnieuw mee bezig te zijn.</span><br></p>"
         },
         {
           "_tags": [
@@ -1753,7 +1753,7 @@
             }
           },
           "title": "Wegwerpcamera",
-          "text": "In het kader van het vak beeldonderzoek besloten we met enkele om in een week een wegwerpcamera vol te schieten. &nbsp;Het zijn &nbsp;dingen die ons opvallen of ons doen herinneren aan iets.<br>Alle foto's werden genomen in Gent. Sommige dingen passeer ik elke dag en zijn me vertrouwd, ander dingen zijn eenmalig en sprongen me in het oog.<br>Door de foto's met een wegwerpcamera te trekken, krijgen de beelden onmiddellijk een andere sfeer dan dat je ze zou schieten met een digitale reflexcamera zoals we nu allemaal gewoon zijn. Het is ergens een sfeer van nostalgie naar bijvoorbeeld een kamp van vroeger waarbij je mama je zo'n camera mee kreeg.&nbsp;",
+          "text": "In het kader van het vak beeldonderzoek besloten we met enkelen, om in een week, een wegwerpcamera vol te schieten. &nbsp;Het zijn &nbsp;dingen die ons opvallen of ons doen herinneren aan iets.<br>Alle foto's werden genomen in Gent. Sommige dingen passeer ik elke dag en zijn me vertrouwd, andere dingen zijn eenmalig en sprongen me in het oog.<br>Door de foto's met een wegwerpcamera te trekken, krijgen de beelden onmiddellijk een andere sfeer dan dat je ze zou schieten met een digitale reflexcamera zoals we nu allemaal gewoon zijn. Het is ergens een sfeer van nostalgie naar bijvoorbeeld een kamp van vroeger waarbij je, van je mama, zo'n camera mee kreeg.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -2801,7 +2801,7 @@
             }
           },
           "title": "Sindy Sherman",
-          "text": "Cindy sherman is een Amerikaanse fotografe die &nbsp;eigenlijk enkelen alleen zelfportretten maakt. Ze is op hetzelfde moment fotografe en model, toch lijken haar portretten niet op haar. Elke keer opnieuw neemt ze een andere gedaante aan. Dit moesten wij in deze opdracht ook doen.",
+          "text": "Cindy sherman is een Amerikaanse fotografe die &nbsp;eigenlijk enkel en alleen zelfportretten maakt. Ze is op hetzelfde moment fotografe en model, toch lijken haar portretten niet op haar. Elke keer opnieuw neemt ze een andere gedaante aan. Dit moesten wij in deze opdracht ook doen.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             "P": {
